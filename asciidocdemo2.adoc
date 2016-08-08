@@ -23,6 +23,10 @@ Dan Allen <thedoc@asciidoctor.org>
 This is a demonstration of {library} {asciidoctor-version}.
 And this is the preamble of this document.
 
+example page
+
+http://mgreau.com/posts/2016/03/28/asciidoc-to-gh-pages-with-travis-ci-docker-asciidoctor.html
+
 ifdef::env-github[]
 ++++
 <a name="purpose"></a>
